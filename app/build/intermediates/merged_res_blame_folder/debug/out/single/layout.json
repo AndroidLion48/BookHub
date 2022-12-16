@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\book_item_layout.xml",
+        "source": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\src\\main\\res\\layout\\book_item_layout.xml"
+    },
+    {
+        "merged": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_history_item.xml",
+        "source": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\src\\main\\res\\layout\\search_history_item.xml"
+    },
+    {
+        "merged": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search_history.xml",
+        "source": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\src\\main\\res\\layout\\fragment_search_history.xml"
+    },
+    {
+        "merged": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\AppsCreation\\2. classProjects\\Kodeco\\BookHub\\starter\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    }
+]
