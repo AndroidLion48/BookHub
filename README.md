@@ -2,6 +2,8 @@
 
 Sample Android app
 
+https://www.kodeco.com/33044382-surviving-configuration-changes-in-android
+
 ## License
 
 ```
