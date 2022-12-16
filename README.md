@@ -1,6 +1,7 @@
 # BookHub App
 
 Sample Android app
+![Screenshot](https://user-images.githubusercontent.com/92341925/208139830-18cf528a-06ff-4ca2-9ce1-8687db3eeba9.png)
 
 https://www.kodeco.com/33044382-surviving-configuration-changes-in-android
 
